@@ -8,7 +8,9 @@ const review = require("./routes/review");
 const Product = require("./routes/product");
 const orderRoute = require("./routes/order");
 // Middleware
-app.use(cors({ origin: "https://ecommerce-frontend-seven-nu.vercel.app/" }));
+app.use(cors({ 
+  origin: "https://ecommerce-frontend-seven-nu.vercel.app" 
+}));
 app.use(express.json());
 app.use(express.urlencoded({ extended: true }));
 // Images
