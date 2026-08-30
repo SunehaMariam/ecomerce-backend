@@ -1,0 +1,30 @@
+[
+  {
+    "id": 1,
+    "title": "VERTICAL STRIPED SHIRT",
+    "price": "$230",
+    "rating": 5,
+    "image": "product1.png"
+  },
+  {
+    "id": 2,
+    "title": "SKINNY FIT JEANS",
+    "price": "$230",
+    "rating": 4,
+    "image": "product2.png"
+  },
+  {
+    "id": 3,
+    "title": "CHECKERED SHIRT",
+    "price": "$230",
+    "rating": 4,
+    "image": "product3.png"
+  },
+  {
+    "id": 4,
+    "title": "SLEEVE STRIPED T-SHIRT",
+    "price": "$230",
+    "rating": 2,
+    "image": "product4.png"
+  }
+]

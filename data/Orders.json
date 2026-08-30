@@ -1,0 +1,40 @@
+[
+  {
+    "id": "1788079326920",
+    "customer": {
+      "fullName": "Suneha Mariam",
+      "email": "rehanagill260@gmail.com",
+      "phone": "+923476832071",
+      "address": "ground floor block O near thanvi masjid linesarea",
+      "city": "karachi",
+      "postalCode": "74400"
+    },
+    "items": [
+      {
+        "id": 3,
+        "title": "CHECKERED SHIRT",
+        "price": "$230",
+        "image": "product3.png",
+        "selectedColor": "#4d4934",
+        "selectedSize": "Large",
+        "quantity": 1
+      },
+      {
+        "id": 1,
+        "title": "VERTICAL STRIPED SHIRT",
+        "price": "$230",
+        "image": "product1.png",
+        "selectedColor": "#4d4934",
+        "selectedSize": "Large",
+        "quantity": 1
+      }
+    ],
+    "subtotal": 460,
+    "discount": 92,
+    "deliveryFee": 15,
+    "total": 383,
+    "paymentMethod": "cod",
+    "status": "Pending",
+    "createdAt": "2026-08-30T08:42:06.920Z"
+  }
+]

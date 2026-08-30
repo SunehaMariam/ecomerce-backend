@@ -1,0 +1,34 @@
+[
+  {
+    "_id": "1",
+    "name": "Suneha",
+    "rating": 5,
+    "review": "Amazing quality and fast delivery!"
+  },
+  {
+    "_id": "2",
+    "name": "Ayesha",
+    "rating": 4,
+    "review": "Really loved the shoes!"
+  },
+  {
+    "_id": "3",
+    "name": "James L.",
+    "rating": 4,
+    "review": "Really loved the shoes!"
+  },
+  {
+    "_id": "1787856910734",
+    "name": "suneha",
+    "review": "good",
+    "rating": 4,
+    "createdAt": "2026-08-27T18:55:10.734Z"
+  },
+  {
+    "_id": "1788076101728",
+    "name": "Suneha",
+    "review": "amzing",
+    "rating": 4,
+    "createdAt": "2026-08-30T07:48:21.728Z"
+  }
+]
